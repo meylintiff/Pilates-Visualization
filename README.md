@@ -8,4 +8,4 @@ Aplikasi ini menampilkan visualisasi dari hasil scraping gerakan pilates dan cra
 - `requirements.txt`: Daftar dependensi
 
 
-berikut linknya - https://meylintifff-pilatesvisualization.streamlit.app/ 
+berikut linknya - https://pilates-visualization.streamlit.app/
