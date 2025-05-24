@@ -4,7 +4,7 @@ Aplikasi ini menampilkan visualisasi dari hasil scraping gerakan pilates dan cra
 
 ## Struktur Folder
 - `app.py`: Aplikasi utama
-- `.streamlit/secrets.toml`: Koneksi MongoDB (tidak saya sertakan di repository)
+- `.streamlit/secrets.toml`: Koneksi MongoDB 
 - `requirements.txt`: Daftar dependensi
 
 
